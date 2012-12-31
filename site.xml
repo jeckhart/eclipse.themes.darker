@@ -3,7 +3,7 @@
    <description name="Eclipse Darker Theme" url="http://jeckhart.github.com/eclipse.themes.darker">
       The Eclipse Darker Theme by Jin Mingjian.
    </description>
-   <feature url="features/eclipse.themes.darker.feature_1.0.0.201212310218.jar" id="eclipse.themes.darker.feature" version="1.0.0.201212310218">
+   <feature url="features/eclipse.themes.darker.feature_1.0.0.201212310254.jar" id="eclipse.themes.darker.feature" version="1.0.0.201212310254">
       <category name="eclipse.themes.darker"/>
    </feature>
    <category-def name="eclipse.themes.darker" label="Eclipse Darker Theme">
